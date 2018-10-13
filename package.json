@@ -1,0 +1,9 @@
+{
+  "name": "i-see-you",
+  "version": "0.0.1",
+  "description": "A socket.io app to remotely retrieve and control an Arduino Uno built radar",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
